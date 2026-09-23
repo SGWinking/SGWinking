@@ -29,7 +29,7 @@
 
 <img src="images/hero-launcher.png" alt="启动台一页，四个工具各一种颜色" width="100%">
 
-五个工具共用一套配色和控件，双击 `run.bat` 启动。服务只监听本机 127.0.0.1，不发网络请求。仓库里也没有运行时、模型权重和比对产物，克隆下来跑 `install.bat` 装依赖就行。
+四个工具和启动台共用一套配色与控件，双击 `run.bat` 启动。服务只监听本机 127.0.0.1，不发网络请求。仓库里也没有运行时、模型权重和比对产物，克隆下来跑 `install.bat` 装依赖就行。
 
 <img src="images/tool-diffeye.png" alt="重明 DiffEye 的界面" width="100%">
 
