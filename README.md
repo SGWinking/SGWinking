@@ -105,7 +105,7 @@ AI 把一块局部图修好了，但它相对原图可能被缩放、裁切、�
 
 ## 这是一套，不是五个
 
-五个仓库共用同一份[系列规范](https://github.com/SGWinking/dayun-mural-toolkit)：
+五个仓库共用同一份[系列规范](https://github.com/SGWinking/dayun-mural-toolkit/blob/main/SERIES-SPEC.md)：
 
 - **同一套骨架 token** —— 底色、面板、字号、圆角、阴影全系列一致；每个工具**只换 5 个 accent 值**。
   颜色取敦煌矿物颜料：朱砂红 / 石青蓝 / 石绿 / 琥珀金。
